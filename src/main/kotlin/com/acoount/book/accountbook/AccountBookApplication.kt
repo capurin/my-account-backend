@@ -6,6 +6,7 @@ import org.springframework.boot.runApplication
 @SpringBootApplication
 class AccountBookApplication
 
+//test
 fun main(args: Array<String>) {
     runApplication<AccountBookApplication>(*args)
 }
